@@ -62,8 +62,10 @@ The system will help organizers:
 - **Deployment:** Docker + AWS EC2/RDS
 
 
-If you wish, you can join in and contribute 🤝 — in any way you like ✨  
-There’s no pressure, no expectations 🌿 — just a space where we can work together 🤗 and learn from each other 📚  
+If you wish, you can join in and contribute 🤝 — in any way you like ✨
+There’s no pressure, no expectations 🌿 — just a space where we can work together 🤗 and learn from each other 📚.
+
+⚠️ Note: This repo is a VIP lounge 🚪💫 — exclusively for my Channa and Chani’s 💖. Other members, please don’t sneak in… we’ll catch you 👀😂.
 
 Before contributing, please raise an issue 📝 so we can discuss and coordinate smoothly.
 

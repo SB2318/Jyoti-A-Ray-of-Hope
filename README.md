@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is a **non-profit mobile and backend platform** developed to support a JGEC student-led initiative that provides **free education** and **extra-curricular activities** for children, especially in rural and under-served areas.
+This will be a **non-profit mobile and backend platform** developed to support a JGEC student-led initiative that provides **free education** and **extra-curricular activities** for children, especially in rural and under-served areas.
 
 The system will help organizers:
 - Manage students and activities
@@ -61,5 +61,10 @@ The system will help organizers:
 - **Authentication:** JWT
 - **Deployment:** Docker + AWS EC2/RDS
 
----
+
+If you wish, you can join in and contribute 🤝 — in any way you like ✨  
+There’s no pressure, no expectations 🌿 — just a space where we can work together 🤗 and learn from each other 📚  
+
+Before contributing, please raise an issue 📝 so we can discuss and coordinate smoothly.
+
 

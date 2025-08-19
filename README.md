@@ -2,6 +2,19 @@
 
 # Community Learning & Activity Management System
 
+# Story:
+
+This is one incomplete task of mine at **JGEC**,
+a journey that began during survey.
+
+Back then, I shared the idea with my batchmates,
+and their encouragement gave me the confidence to move forward —
+special thanks to **Dibeyendu, Soumavo, and Rose**
+for their support in the very beginning.
+
+Yes, everything takes time, but just like **UltimateHealth**,
+I believe this journey too will reach its completion. or, at the very least, its structure will serve as a foundation for the future.
+
 ## Overview
 
 This will be a **non-profit mobile and backend platform** developed to support a JGEC student-led initiative that provides **free education** and **extra-curricular activities** for children, especially in rural and under-served areas.
@@ -65,7 +78,6 @@ The system will help organizers:
 If you wish, you can join in and contribute 🤝 — in any way you like ✨
 There’s no pressure, no expectations 🌿 — just a space where we can work together 🤗 and learn from each other 📚.
 
-⚠️ Note: This repo is a VIP lounge 🚪💫 — exclusively for my Channa and Chani’s 💖. Other members, please don’t sneak in… we’ll catch you 👀😂.
 
 Before contributing, please raise an issue 📝 so we can discuss and coordinate smoothly.
 

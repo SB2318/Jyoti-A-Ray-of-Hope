@@ -2,7 +2,7 @@
 
 # Community Learning & Activity Management System
 
-First look. First launch. Coming to life at SRISTI 2026
+## First look. First launch. Coming to life at SRISTI 2026
 
 # Story:
 

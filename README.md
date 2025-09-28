@@ -64,8 +64,8 @@ The system will help organizers:
 ## Tech Stack
 
 ### Mobile App
-- **Language:** Kotlin
-- **UI Framework:** Jetpack Compose
+- **Language:** JavaScript, TypeScript
+- **UI Framework:** EXPO, React Native
 
 - **Database:** Room (offline mode for rural areas) & SQL
 - **Dependency Injection:** Hilt
